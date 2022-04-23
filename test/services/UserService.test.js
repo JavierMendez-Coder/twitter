@@ -1,6 +1,6 @@
 const UserService = require("./../../app/services/UserService");
 
-describe("Test for UserService", () => {
+describe("Tests for UserService", () => {
   test("1) New user creation with UserService", () => {
     const user = UserService.create(1, "carlogilmar", "Carlo");
 
