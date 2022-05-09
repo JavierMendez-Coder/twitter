@@ -22,8 +22,6 @@
     <a href="https://github.com/javiermendez-coder/twitter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/javiermendez-coder/twitter">View Demo</a>
-    ·
     <a href="https://github.com/javiermendez-coder/twitter/issues">Report Bug</a>
     ·
     <a href="https://github.com/javiermendez-coder/twitter/issues">Request Feature</a>
